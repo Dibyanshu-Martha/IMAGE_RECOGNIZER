@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+    color: red;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#webcam{
+    border: 2px dashed blue;
+    width: 350px;
+    height: 300px;
+}
+
+.object{
+    color: black;
+}
